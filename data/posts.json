@@ -1,11 +1,11 @@
 [
     {
         "title": "My first blog post",
-        "summary": "This is a summary of my first blog post",
-        "content": "This is the full content of my first blog post that I published to my own website"
+        "summary": "This is a boring summary",
+        "content": "This content deserves its own website"
     }, {
         "title": "My second blog post",
-        "summary": "This is a summary of my second blog post",
-        "content": "This is the full content of my second blog post that I published to my own website"
+        "summary": "Back due to popular demand",
+        "content": "Actor tip: If you don't want to sneeze, bite your gum."
     }
 ]
